@@ -8,8 +8,8 @@ Your homework should be written in a **Jupyter notebook**. You may work in group
 Also, please make sure your code runs and the graphics (and anything else) are displayed in your notebook before submitting. (%matplotlib inline)
 
 ### Name(s)
-1. Matthew Leong - mcl2994
-2. Chirag Ramesh - cr44748
+1. Matthew Leong
+2. Chirag Ramesh
 
 ## My contribution:
 
