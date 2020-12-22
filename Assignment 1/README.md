@@ -9,9 +9,9 @@ Also, please make sure your code runs and the graphics (and anything else) are d
 
 ## Authors
 
-### Matthew Leong - mcl2994
+### Matthew Leong
 
-### Chirag Ramesh - cr44748
+### Chirag Ramesh
 
 ## My Contribution:
 
